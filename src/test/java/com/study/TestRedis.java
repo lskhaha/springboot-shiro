@@ -9,7 +9,7 @@ import org.junit.Test;
 
 /**
  *
- * Created by yangqj on 2018/1/13.lim
+ * Created by yangqj on 2018/1/13.lskhaha
  */
 public class TestRedis {
     @Test
